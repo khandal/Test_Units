@@ -1,0 +1,10 @@
+variable "name" {}
+variable "additional_tags" {}
+variable "vpc_cidr" {}
+variable "public_sn_count" {}
+variable "private_sn_count" {}
+variable "access_ip" {}
+variable "jenkins_Ports" {}
+variable "cluster_Ports" {}
+variable "node_Ports" {}
+variable "db_subnet_group" {}
